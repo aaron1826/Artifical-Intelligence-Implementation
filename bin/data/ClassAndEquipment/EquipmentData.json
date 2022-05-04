@@ -1,0 +1,111 @@
+
+{
+  "Weapons": {
+
+    "1H Swords": [
+      {
+        "Name": "Short Sword",
+        "Equipment Type ID": 0,
+        "Unique Equipment ID": 0,
+        "Physical Attack": 10,
+        "Magical Attack": 0,
+        "Physical Hit %": 95,
+        "Magical Hit %": 0,
+        "Critical Hit %": 5,
+        "Critical Damage Multiplier": 1.5,
+        "HP": 0,
+        "MP": 0,
+        "Physical Armour": 0,
+        "Magical Armour": 0,
+        "Evasion %": 0,
+        "Movespeed": 0,
+        "Magic Resist %": 0
+      }
+    ],
+    "Staffs": [
+      {
+        "Name": "Old Rod",
+        "Equipment Type ID": 1,
+        "Unique Equipment ID": 1,
+        "Physical Attack": 2,
+        "Magical Attack": 10,
+        "Physical Hit %": 95,
+        "Magical Hit %": 95,
+        "Critical Hit %": 5,
+        "Critical Damage Multiplier": 1.75,
+        "HP": 0,
+        "MP": 0,
+        "Physical Armour": 0,
+        "Magical Armour": 0,
+        "Evasion %": 0,
+        "Movespeed": 0,
+        "Magic Resist %": 15
+      }
+    ]
+  },
+
+  "Armour": {
+    "Light Armour": [
+      {
+        "Name": "Tunic",
+        "Equipment Type ID": 2,
+        "Unique Equipment ID": 2,
+        "Physical Attack": 0,
+        "Magical Attack": 0,
+        "Physical Hit %": 0,
+        "Magical Hit %": 0,
+        "Critical Hit %": 0,
+        "Critical Damage Multiplier": 1,
+        "HP": 5,
+        "MP": 0,
+        "Physical Armour": 10,
+        "Magical Armour": 0,
+        "Evasion %": 5,
+        "Movespeed": 0,
+        "Magic Resist %": 5
+      }
+    ]
+  },
+
+  "Accessories": [
+
+    {
+      "Name": "Running Shoes",
+      "Equipment Type ID": 3,
+      "Unique Equipment ID": 3,
+      "Physical Attack": 0,
+      "Magical Attack": 0,
+      "Physical Hit %": 0,
+      "Magical Hit %": 0,
+      "Critical Hit %": 0,
+      "Critical Damage Multiplier": 1,
+      "HP": 0,
+      "MP": 0,
+      "Physical Armour": 0,
+      "Magical Armour": 0,
+      "Evasion %": 5,
+      "Movespeed": 1,
+      "Magic Resist %": 0
+
+    },
+
+    {
+      "Name": "Amulet",
+      "Equipment Type ID": 4,
+      "Unique Equipment ID": 4,
+      "Physical Attack": 0,
+      "Magical Attack": 0,
+      "Physical Hit %": 0,
+      "Magical Hit %": 0,
+      "Critical Hit %": 0,
+      "Critical Damage Multiplier": 0,
+      "HP": 0,
+      "MP": 20,
+      "Physical Armour": 0,
+      "Magical Armour": 5,
+      "Evasion %": 0,
+      "Movespeed": 0,
+      "Magic Resist %": 5
+    }
+  ]
+}

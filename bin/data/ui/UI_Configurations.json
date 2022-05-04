@@ -1,0 +1,351 @@
+{
+    "Combat UIs": [
+        {
+            "Unique UI ID": 0,
+            "UI Type": 0,
+            "Creation Count": 2,
+            "UI Name": "Unit_Menu_00",
+            "UI Texture Filepath": "data/ui/UI_Atlas_01.dds",
+            "UI Texture Access Name": "UI_Atlas_01",
+            "Cursor Texture Filepath": "data/ui/UI_Atlas_01.dds",
+            "Cursor Texture Access Name": "UI_Atlas_01",
+            "UI Frame ID": 6,
+            "Cursor Frame ID": 11,
+            "UI Pos X": 100.0,
+            "UI Pos Y": 100.0,
+            "Cursor Anchor Pos X": 108.0,
+            "Cursor Anchor Pos Y": 108.0,
+            "Text Anchor Pos X": 176.0,
+            "Text Anchor Pos Y": 122.0,
+            "Index Max X": 0,
+            "Index Max Y": 3,
+            "Default Index Pos X": 0,
+            "Default Index Pos Y": 0,
+            "Cursor Offset X": 0.0,
+            "Cursor Offset Y": 48.0,
+            "UI Strings": [
+                {
+                    "Message": "Actions"
+                },
+                {
+                    "Message": "Move"
+                },
+                {
+                    "Message": "Status"
+                },
+                {
+                    "Message": "End Turn"
+                }
+            ]
+        },
+        {
+            "Unique UI ID": 1,
+            "UI Type": 0,
+            "Creation Count": 2,
+            "UI Name": "Unit_Action_Menu_00",
+            "UI Texture Filepath": "data/ui/UI_Atlas_01.dds",
+            "UI Texture Access Name": "UI_Atlas_01",
+            "Cursor Texture Filepath": "data/ui/UI_Atlas_01.dds",
+            "Cursor Texture Access Name": "UI_Atlas_01",
+            "UI Frame ID": 6,
+            "Cursor Frame ID": 11,
+            "UI Pos X": 100.0,
+            "UI Pos Y": 100.0,
+            "Cursor Anchor Pos X": 108.0,
+            "Cursor Anchor Pos Y": 108.0,
+            "Text Anchor Pos X": 176.0,
+            "Text Anchor Pos Y": 122.0,
+            "Index Max X": 0,
+            "Index Max Y": 3,
+            "Default Index Pos X": 0,
+            "Default Index Pos Y": 0,
+            "Cursor Offset X": 0.0,
+            "Cursor Offset Y": 48.0,
+            "UI Strings": [
+                {
+                    "Message": "Attack"
+                },
+                {
+                    "Message": "Skill 1"
+                },
+                {
+                    "Message": "Skill 2"
+                },
+                {
+                    "Message": "Skill 3"
+                }
+            ]
+        },
+        {
+            "Unique UI ID": 2,
+            "UI Type": 0,
+            "Creation Count": 2,
+            "UI Name": "Unit_Magic_Menu_00",
+            "UI Texture Filepath": "data/ui/UI_Atlas_01.dds",
+            "UI Texture Access Name": "UI_Atlas_01",
+            "Cursor Texture Filepath": "data/ui/UI_Atlas_01.dds",
+            "Cursor Texture Access Name": "UI_Atlas_01",
+            "UI Frame ID": 2,
+            "Cursor Frame ID": 11,
+            "UI Pos X": 100.0,
+            "UI Pos Y": 100.0,
+            "Cursor Anchor Pos X": 108.0,
+            "Cursor Anchor Pos Y": 108.0,
+            "Text Anchor Pos X": 176.0,
+            "Text Anchor Pos Y": 122.0,
+            "Index Max X": 1,
+            "Index Max Y": 7,
+            "Default Index Pos X": 0,
+            "Default Index Pos Y": 0,
+            "Cursor Offset X": 192.0,
+            "Cursor Offset Y": 64.0,
+            "UI Strings": [
+                {
+                    "Message": "Basic"
+                },
+                {
+                    "Message": "Heal"
+                },
+                {
+                    "Message": "Magic 5"
+                },
+                {
+                    "Message": "Magic 7"
+                },
+                {
+                    "Message": "Magic 9"
+                },
+                {
+                    "Message": "Magic 11"
+                },
+                {
+                    "Message": "Magic 13"
+                },
+                {
+                    "Message": "Magic 15"
+                },
+                {
+                    "Message": "Magic 2"
+                },
+                {
+                    "Message": "Magic 4"
+                },
+                {
+                    "Message": "Magic 6"
+                },
+                {
+                    "Message": "Magic 8"
+                },
+                {
+                    "Message": "Magic 10"
+                },
+                {
+                    "Message": "Magic 12"
+                },
+                {
+                    "Message": "Magic 14"
+                },
+                {
+                    "Message": "Magic 16"
+                }
+            ]
+        },
+        {
+            "Unique UI ID": 6,
+            "UI Type": 1,
+            "Creation Count": 2,
+            "UI Name": "Target_Frame_00",
+            "UI Texture Filepath": "data/ui/UI_Atlas_01.dds",
+            "UI Texture Access Name": "UI_Atlas_01",
+            "UI Frame ID": 8,
+            "UI Pos X": 100.0,
+            "UI Pos Y": 100.0,
+            "UI Strings": [
+                {
+                    "Message": "Target?"
+                }
+            ],
+            "String Positions": [
+                {
+                    "Pos X": 133.0,
+                    "Pos Y": 148.0
+                }
+            ]
+        },
+        {
+            "Unique UI ID": 8,
+            "UI Type": 0,
+            "Creation Count": 2,
+            "UI Name": "Main_Menu_00",
+            "UI Texture Filepath": "data/ui/UI_Atlas_01.dds",
+            "UI Texture Access Name": "UI_Atlas_01",
+            "Cursor Texture Filepath": "data/ui/UI_Atlas_01.dds",
+            "Cursor Texture Access Name": "UI_Atlas_01",
+            "UI Frame ID": 5,
+            "Cursor Frame ID": 11,
+            "UI Pos X": 960.0,
+            "UI Pos Y": 540.0,
+            "Cursor Anchor Pos X": 972.0,
+            "Cursor Anchor Pos Y": 548.0,
+            "Text Anchor Pos X": 972.0,
+            "Text Anchor Pos Y": 548.0,
+            "Index Max X": 0,
+            "Index Max Y": 2,
+            "Default Index Pos X": 0,
+            "Default Index Pos Y": 0,
+            "Cursor Offset X": 192.0,
+            "Cursor Offset Y": 0.0,
+            "UI Strings": [
+                {
+                    "Message": "Play Game"
+                },
+                {
+                    "Message": "How To Play"
+                },
+                {
+                    "Message": "Exit Game"
+                }
+            ]
+        }
+    ],
+    "Unit Frames & Tooltips": [
+        {
+            "Unique UI ID": 3,
+            "UI Type": 1,
+            "Creation Count": 2,
+            "UI Name": "Tile_Tooltip_00",
+            "UI Texture Filepath": "data/ui/UI_Atlas_01.dds",
+            "UI Texture Access Name": "UI_Atlas_01",
+            "UI Frame ID": 6,
+            "UI Pos X": 1632.0,
+            "UI Pos Y": 972.0,
+            "UI Strings": [
+                {
+                    "Message": "TileName"
+                },
+                {
+                    "Message": "Cost: "
+                }
+            ],
+            "String Positions": [
+                {
+                    "Pos X": 1640.0,
+                    "Pos Y": 1000.0
+                },
+                {
+                    "Pos X": 1640.0,
+                    "Pos Y": 1040.0
+                }
+            ]
+        },
+        {
+            "Unique UI ID": 4,
+            "UI Type": 1,
+            "Creation Count": 1,
+            "UI Name": "Friendly_Unit_Tooltip_00",
+            "UI Texture Filepath": "data/ui/UI_Atlas_01.dds",
+            "UI Texture Access Name": "UI_Atlas_01",
+            "UI Frame ID": 7,
+            "UI Pos X": 0.0,
+            "UI Pos Y": 600.0,
+            "UI Strings": [
+                {
+                    "Message": "Name: "
+                },
+                {
+                    "Message": "HP: "
+                },
+                {
+                    "Message": "MP: "
+                }
+            ],
+            "String Positions": [
+                {
+                    "Pos X": 64.0,
+                    "Pos Y": 640.0
+                },
+                {
+                    "Pos X": 64.0,
+                    "Pos Y": 680.0
+                },
+                {
+                    "Pos X": 64.0,
+                    "Pos Y": 720.0
+                }
+            ]
+        },
+        {
+            "Unique UI ID": 5,
+            "UI Type": 1,
+            "Creation Count": 2,
+            "UI Name": "Enemy_Unit_Tooltip_00",
+            "UI Texture Filepath": "data/ui/UI_Atlas_01.dds",
+            "UI Texture Access Name": "UI_Atlas_01",
+            "UI Frame ID": 16,
+            "UI Pos X": 1536.0,
+            "UI Pos Y": 600.0,
+            "UI Strings": [
+                {
+                    "Message": "Name: "
+                },
+                {
+                    "Message": "HP: "
+                },
+                {
+                    "Message": "MP: "
+                }
+            ],
+            "String Positions": [
+                {
+                    "Pos X": 1660.0,
+                    "Pos Y": 640.0
+                },
+                {
+                    "Pos X": 1660.0,
+                    "Pos Y": 680.0
+                },
+                {
+                    "Pos X": 1660.0,
+                    "Pos Y": 720.0
+                }
+            ]
+        },
+        {
+            "Unique UI ID": 7,
+            "UI Type": 1,
+            "Creation Count": 2,
+            "UI Name": "Ability_Tooltip_00",
+            "UI Texture Filepath": "data/ui/UI_Atlas_01.dds",
+            "UI Texture Access Name": "UI_Atlas_01",
+            "UI Frame ID": 4,
+            "UI Pos X": 100.0,
+            "UI Pos Y": 800.0,
+            "UI Strings": [
+                {
+                    "Message": "Wildest Strike 2"
+                },
+                {
+                    "Message": "MP: 000"
+                },
+                {
+                    "Message": "This is a PH tooltip to test how \ntooltips might work in pratice."
+                }
+            ],
+            "String Positions": [
+                {
+                    "Pos X": 108.0,
+                    "Pos Y": 840.0
+                },
+                {
+                    "Pos X": 108.0,
+                    "Pos Y": 880.0
+                },
+                {
+                    "Pos X": 108.0,
+                    "Pos Y": 920.0
+                }
+            ]
+        }
+    ]
+
+}

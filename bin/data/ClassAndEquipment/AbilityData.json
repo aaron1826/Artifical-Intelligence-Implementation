@@ -1,0 +1,158 @@
+{
+  "Skills": [
+    {
+      "Unique ID": 0,
+      "Name": "Basic Attack",
+      "Skill Type": 0,
+      "Damage Type": 0,
+      "Mana Cost": 10,
+      "Range": 1,
+      "Radius": 0,
+      "Physical Damage Scaling": 1.0,
+      "Magic Damage Scaling": 0.0,
+      "Innate Crit %": 0.0,
+      "Tool Tip": "This is a Basic Attack"
+    },
+    {
+      "Unique ID": 1,
+      "Name": "Fireball 1",
+      "Skill Type": 0,
+      "Damage Type": 1,
+      "Mana Cost": 10,
+      "Range": 3,
+      "Radius": 0,
+      "Physical Damage Scaling": 0.0,
+      "Magic Damage Scaling": 1.2,
+      "Innate Crit %": 5.0,
+      "Tool Tip": "This is a tool tip"
+    },
+    {
+      "Unique ID": 2,
+      "Name": "Fireball 2",
+      "Skill Type": 0,
+      "Damage Type": 1,
+      "Mana Cost": 25,
+      "Range": 3,
+      "Radius": 0,
+      "Physical Damage Scaling": 0.0,
+      "Magic Damage Scaling": 1.5,
+      "Innate Crit %": 5.0,
+      "Tool Tip": "This is a tool tip"
+
+    },
+    {
+      "Unique ID": 3,
+      "Name": "Fireball 3",
+      "Skill Type": 0,
+      "Damage Type": 1,
+      "Mana Cost": 50,
+      "Range": 3,
+      "Radius": 0,
+      "Physical Damage Scaling": 0.0,
+      "Magic Damage Scaling": 2.5,
+      "Innate Crit %": 5.0,
+      "Tool Tip": "This is a tool tip"
+    },
+    {
+      "Unique ID": 4,
+      "Name": "Wild Swing",
+      "Skill Type": 0,
+      "Damage Type": 0,
+      "Mana Cost": 10,
+      "Range": 1,
+      "Radius": 0,
+      "Physical Damage Scaling": 1.2,
+      "Magic Damage Scaling": 0.0,
+      "Innate Crit %": 5.0,
+      "Tool Tip": "This is a tool tip"
+    },
+    {
+      "Unique ID": 5,
+      "Name": "Wilder Swing",
+      "Skill Type": 0,
+      "Damage Type": 0,
+      "Mana Cost": 25,
+      "Range": 1,
+      "Radius": 0,
+      "Physical Damage Scaling": 1.5,
+      "Magic Damage Scaling": 0.0,
+      "Innate Crit %": 5.0,
+      "Tool Tip": "This is a tool tip"
+    },
+    {
+      "Unique ID": 6,
+      "Name": "Wildest Swing",
+      "Skill Type": 0,
+      "Damage Type": 0,
+      "Mana Cost": 50,
+      "Range": 1,
+      "Radius": 0,
+      "Physical Damage Scaling": 2.5,
+      "Magic Damage Scaling": 0.0,
+      "Innate Crit %": 5.0,
+      "Tool Tip": "This is a tool tip"
+    },
+    {
+      "Unique ID": 7,
+      "Name": "Minor Heal",
+      "Skill Type": 1,
+      "Mana Cost": 10,
+      "Range": 3,
+      "Radius": 0,
+      "Heal %": 0.2,
+      "Tool Tip": "This is a tool tip"
+    },
+    {
+      "Unique ID": 8,
+      "Name": "Moderate Heal",
+      "Skill Type": 1,
+      "Mana Cost": 20,
+      "Range": 5,
+      "Radius": 0,
+      "Heal %": 0.4,
+      "Tool Tip": "This is a tool tip"
+    },
+    {
+      "Unique ID": 9,
+      "Name": "Major Heal",
+      "Skill Type": 1,
+      "Mana Cost": 30,
+      "Range": 7,
+      "Radius": 0,
+      "Heal %": 0.6,
+      "Tool Tip": "This is a tool tip"
+    },
+    {
+      "Unique ID": 10,
+      "Name": "Full Heal",
+      "Skill Type": 1,
+      "Mana Cost": 70,
+      "Range": 9,
+      "Radius": 0,
+      "Heal %": 1.0,
+      "Tool Tip": "This is a tool tip"
+    },
+    {
+      "Unique ID": 11,
+      "Name": "Crit Buff",
+      "Skill Type": 2,
+      "Mana Cost": 20,
+      "Turn Count" : 1,
+      "Range": 0,
+      "Radius": 0,
+      "Physical Damage Buff %": 1.0,
+      "Magical Damage Buff %": 1.0,
+      "Physical Hit Buff %": 1.0,
+      "Magical Hit Buff %": 1.0,
+      "Physical Armour Buff %": 1.0,
+      "Magic Armour Buff %": 1.0,
+      "Magic Resist Buff %": 1.0,
+      "Crit Hit Buff %": 1.20,
+      "Crit Damage Buff %" : 1.20,
+      "Evasion Buff %": 1.0,
+      "Movespeed Buff %": 1.0,
+      "Tool Tip": "This is a tool tip"
+    }
+
+  ]  
+}
